@@ -14,4 +14,4 @@ The OSDU Ontology is licensed under the Apache License 2.0 - see [License](./Lic
     @prefix osdu: <https://w3id.org/osdu#>
 
 ## Contacts
-* Neda Abolhassani <neda.abolhassani@accenture.com>
+* Neda Abolhassani <neda.abolhassani@gmail.com>
